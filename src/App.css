@@ -1,0 +1,16 @@
+.app {
+  display: flex;
+}
+
+.toolkit {
+  width: 30%;
+  border-right: 1px solid #ccc;
+  padding: 10px;
+}
+
+.canvas {
+  width: 70%;
+  padding: 10px;
+  min-height: 500px;
+  border: 1px solid #ccc;
+}
